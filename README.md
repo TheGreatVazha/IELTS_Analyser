@@ -1,7 +1,12 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# IELTS Score Analyser
+IELTS is an international English proficiency test conducted by mainly 3 organisations, namely IDP, Cambridge English and the British Council. 
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+IELTS mainly consist of 4 parts;
+1. Reading
+2. Listening
+3. Writing
+4. Speaking
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Here, Reading and Listening scores are analysed visually for you.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Raw scores obtained along with time taken for Reading, and raw scores for Listening are used to receive output inferences.
